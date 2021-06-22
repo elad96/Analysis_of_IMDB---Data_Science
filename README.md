@@ -10,10 +10,10 @@ Due to the amount of data gathered over the years, we are hoping to find signifi
 Our main research goal is:
 	- “ What are the most important attributes to predict gross income? ”
 
-In addition, we found those topics interesting as well:
-	- Which year was the best for movie production?”
-	- “Do user ratings similar to critics ratings?”
-	- “How long should a succesfull movie be?”
+In addition, we found those topics interesting as well:\n
+	- Which year was the best for movie production?”\n
+	- “Do user ratings similar to critics ratings?”\n
+	- “How long should a succesfull movie be?”\n
 	- ”Which genres people rate higher?”
 
 ---------------------------------------------------------
