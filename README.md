@@ -1,5 +1,7 @@
 # DataScience_IMDB
 
+![image](https://user-images.githubusercontent.com/7150655/122880214-7342ec00-d342-11eb-88d7-767df3dc4335.png)
+
 **“Popular IMDB Movies characteristic”**
 
 In this project, we will analyze the data of IMDB (The Internet Movie Database) -
