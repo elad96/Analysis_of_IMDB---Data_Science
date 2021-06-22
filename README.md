@@ -1,7 +1,5 @@
 # DataScience_IMDB
 
-![image](https://user-images.githubusercontent.com/7150655/122880214-7342ec00-d342-11eb-88d7-767df3dc4335.png)
-
 **“Popular IMDB Movies characteristic”**
 
 In this project, we will analyze the data of IMDB (The Internet Movie Database) -
@@ -17,6 +15,10 @@ In addition, we found those topics interesting as well:
 - “Do user ratings similar to critics ratings?”
 - “How long should a succesfull movie be?”
 - ”Which genres people rate higher?”
+
+
+![image](https://user-images.githubusercontent.com/7150655/122880214-7342ec00-d342-11eb-88d7-767df3dc4335.png)
+
 
 ---------------------------------------------------------
 Submitted by:
