@@ -14,7 +14,8 @@ In addition, we found those topics interesting as well:
 	- Which year was the best for movie production?”
 	- “Do user ratings similar to critics ratings?”
 	- “How long should a succesfull movie be?”
-	- “Which genres people rate higher?”
+	- ”Which genres people rate higher?”
+
 ---------------------------------------------------------
 Submitted by:
 
