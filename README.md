@@ -8,7 +8,7 @@ In our research we will focus at the information related to Films (Worldwide).
 Due to the amount of data gathered over the years, we are hoping to find significant insights related to movies.
 
 Our main research goal is:
-	- “ What are the most important attributes to predict gross income? ”
+- “ What are the most important attributes to predict gross income? ”
 
 In addition, we found those topics interesting as well:
 - Which year was the best for movie production?”
