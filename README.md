@@ -16,6 +16,9 @@ In addition, we found those topics interesting as well:
 - “How long should a succesfull movie be?”
 - ”Which genres people rate higher?”
 
+**Note:**
+The whole research can be found at "Project Presentaion.pptx"
+
 ---------------------------------------------------------
 
 **Package contains:**
