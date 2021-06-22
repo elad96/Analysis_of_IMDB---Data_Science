@@ -16,23 +16,9 @@ In addition, we found those topics interesting as well:
 - “How long should a succesfull movie be?”
 - ”Which genres people rate higher?”
 
-
-![image](https://user-images.githubusercontent.com/7150655/122880214-7342ec00-d342-11eb-88d7-767df3dc4335.png)
-
-
----------------------------------------------------------
-Submitted by:
-
-	Name: Elad Cohen
-	ID: 208931394
-	Email: elad96c@gmail.com
-
-	Name: Avi Barhom
-	ID: 203572748
-	Email: avibarhom1111@gmail.com
 ---------------------------------------------------------
 
-Package contains:
+**Package contains:**
 
 	-- Content: --			-- File Name: --
 	1. Project Proposal		Project Proposal.pdf
