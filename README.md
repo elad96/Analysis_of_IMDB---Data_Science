@@ -1,4 +1,4 @@
-# DataScience_IMDB
+# Analysis of IMDB - Data Science
 
 **“Popular IMDB Movies characteristic”**
 
