@@ -2,7 +2,7 @@
 
 **“Popular IMDB Movies characteristic”**
 
-![image](https://user-images.githubusercontent.com/7150655/123635668-9975f980-d824-11eb-8321-3a2e198402a3.png)
+![image](https://user-images.githubusercontent.com/7150655/123635668-9975f980-d824-11eb-8321-3a2e198402a3.png)  
 In this project, we will analyze the data of IMDB (The Internet Movie Database) -  
 Website which provides information related to Movies, TV-shows, and Video games.  
 In our research we will focus at the information related to Films (Worldwide).  
